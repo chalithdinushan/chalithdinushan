@@ -14,7 +14,7 @@
 </div>
 
 ###
-<div style="height: 200px;"></div>
+
 <div align="center" width="47%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
