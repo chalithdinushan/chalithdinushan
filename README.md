@@ -14,8 +14,8 @@
 </div>
 
 ###
-
-<div align="center" width="47%" style="padding-top: 100px;">
+<div style="height: 20px;"></div>
+<div align="center" width="47%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
