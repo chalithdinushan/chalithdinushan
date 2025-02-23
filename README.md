@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Chalith Dinushan and I'm a Fullstack Developer, from Sri lanaka.</h2>
+<h2 align="center">Hi 👋! My name is Chalith Dinushan and I'm a Developer, from Sri lanaka.</h2>
 
 ###
 
